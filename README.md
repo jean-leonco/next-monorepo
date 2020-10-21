@@ -26,4 +26,4 @@ git clone https://github.com/jean-leonco/next-monorepo.git
 ## Running
 
 - To start the web, run `yarn web`.
-- To start the blog, run `yarn vlog`.
+- To start the blog, run `yarn blog`.
