@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "rootDir": "./"
+  },
+  "exclude": ["package.json"],
+  "extends": "../../tsconfig.json",
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
+}

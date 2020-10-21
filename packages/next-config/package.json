@@ -1,0 +1,8 @@
+{
+  "name": "@next/next-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "next-transpile-modules": "^4.1.0"
+  }
+}
